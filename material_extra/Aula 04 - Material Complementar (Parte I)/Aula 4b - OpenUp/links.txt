@@ -1,0 +1,4 @@
+http://open2up.blogspot.com/
+
+Como muitos artefatos do OpenUp são compartilhados/herdados do RUP, segue um link útil para conhecimento desses artefatos:
+http://www.wthreex.com/rup/portugues/process/templates.htm
